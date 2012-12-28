@@ -32,6 +32,10 @@
 
 我本人完全没有处理图像的经验，欢迎大家一起参与这项工作。
 
+# 参考资料
+
+* [上海交通大学关于进一步规范校徽使用的通知](http://www.sjtu.edu.cn/xiaoli/xlactivitycontent.jsp?urltype=news.NewsContentUrl&wbtreeid=1253&wbnewsid=20747)
+
 # 致谢 
 
 谢谢水源上参与讨论和收集素材的诸君： fcfarseer SeaCat przhu。谢谢 @stfairy 对矢量图转换工具提的建议，PDF PNG 文件都是通过python-uniconvertor生成的。
