@@ -1,0 +1,5 @@
+= CMYK Color for SJTU logo and banner =
+
+* SJTU Red	C:15   M:100  Y:80  K:20
+* SJTU Blue	C:100  M:80   Y:0   K:0
+* SJTU Silver 	C:0    M:0    Y:0   K:15
