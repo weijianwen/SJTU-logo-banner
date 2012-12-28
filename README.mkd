@@ -1,5 +1,39 @@
-= CMYK Color for SJTU logo and banner =
+这个项目名为 SJTU-logo-banner，是上海交通大学校徽图案的集合。
 
-* SJTU Red	C:15   M:100  Y:80  K:20
-* SJTU Blue	C:100  M:80   Y:0   K:0
-* SJTU Silver 	C:0    M:0    Y:0   K:15
+开设这个项目的目的是让大家方便地获得高质量的上海交大校徽图案。其中，```sjtubannerblack.png```已经用于[上海交通大学学士学位论文模板](https://github.com/weijianwen/sjtu-thesis-template-latex)。校徽的矢量源文件从交大校内网站获得，源文件没有标明版权和许可，抱歉这里也不能明确给出。欢迎大家反馈各类建议，包括但不限于：版权、使用许可、使用规范、配色建议等。大家可以到[饮水思源BBS LaTeX版](https://bbs.sjtu.edu.cn/bbstdoc,board,TeX_LaTeX.html)讨论，也可以直接发邮件给[我](mailto:weijianwen@gmail.com)。
+
+衷心希望交大校徽能规范、清晰地呈现在印刷品上。
+
+= 文件说明 =
+
+校徽图案有两个， 一个称为“标准型”，是圆形的齿轮图案，图形文件以sjtulogo作为前缀；另一个是“展开型”，是齿轮图案和校名的组合，图形文件以sjtubanner作为前缀。校徽图案有黑色、红色、蓝色、银色。
+
+== 标准型 sjtulogo ==
+(PNG图片)
+
+* sjtulogored.cdr sjtulogoblue.cdr sjtulogosilver.cdr 标准型校徽的CoreDraw源文件，分别是红色、蓝色、银色。
+* sjtulogored.png sjtulogoblue.png sjtulogosilver.png 标准型校徽图案的PNG点阵图文件，分别是红色、蓝色、银色，从CoreDraw源文件导出。 
+
+== 展开型 sjtubaner == 
+(PNG图片)
+
+* sjtubannerred.cdr sjtubannerblue.cdr sjtubannersilver.cdr 展开型校徽的CoreDraw源文件，分别是红色、蓝色、银色。
+* sjtubannerblue.svg sjtubannerblack.svg 展开型校徽的SVG矢量文件，分别是蓝色和黑色。其中黑色图案是由蓝色图案修改填充色得到。
+* sjtubannerblue.png sjtubannerblack.png 展开型校徽的PNG点阵图文件，分别是蓝色和黑色，由SVG矢量图导出。 
+
+== CMYK 颜色 ==
+
+	SJTU Red 红色		C:15   M:100  Y:80  K:20
+	SJTU Blue 蓝色		C:100  M:80   Y:0   K:0
+	SJTU Silver 银色	C:0    M:0    Y:0   K:15
+
+= 待完成工作 =
+
+1. 补全红色、蓝色、银色、黑色的矢量图和点阵图。 
+2. 使用更好地方式输出EPS和PDF文件。 
+
+我本人完全没有处理图像的经验，欢迎大家一起参与这项工作。
+
+= 致谢 =
+
+谢谢水源上参与讨论和收集素材的诸君： fcfarseer SeaCat przhu 
