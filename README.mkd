@@ -9,7 +9,7 @@
 校徽图案有两个， 一个称为“标准型”，是圆形的齿轮图案，图形文件以```sjtulogo```作为前缀；另一个是“展开型”，是齿轮图案和校名的组合，图形文件以```sjtubanner```作为前缀。校徽图案有黑色、红色、蓝色、银色。
 
 ## 标准型 SJTU_LOGO 
-![alt text](https://raw.github.com/weijianwen/SJTU-logo-banner/master/SJTU_LOGO/PNG/sjtulogoblue.png)
+![alt text](https://raw.github.com/weijianwen/SJTU-logo-banner/master/SJTU_BANNER/PNG/sjtubannerblue.png)
 * sjtulogored.cdr sjtulogoblue.cdr sjtulogosilver.cdr 标准型校徽的CoreDraw源文件，分别是红色、蓝色、银色。
 * sjtulogored.png sjtulogoblue.png sjtulogosilver.png 标准型校徽图案的PNG点阵图文件，分别是红色、蓝色、银色，从CoreDraw源文件导出。 
 
@@ -21,8 +21,8 @@
 
 ## CMYK 颜色 
 
-	Red 红色     C:15   M:100  Y:80  K:20
-	Blue 蓝色    C:100  M:80   Y:0   K:0
+	Red    红色  C:15   M:100  Y:80  K:20
+	Blue   蓝色  C:100  M:80   Y:0   K:0
 	Silver 银色  C:0    M:0    Y:0   K:15
 
 # 待完成工作 
